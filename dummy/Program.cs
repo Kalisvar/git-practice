@@ -39,15 +39,15 @@ namespace ConsoleApplication1
             //double Perimeter = 2 * Math.PI * radius;
             //Console.WriteLine("The perimeter of a circle is :" + string.Format("{0:0.00}", Perimeter));
 
-            //Question no (5)
-            //Console.WriteLine("Enter the numerator:");
-            //int Numerator = int.Parse(Console.ReadLine());
-            //Console.WriteLine("Enter the Denominator:");
-            //int Denominator = int.Parse(Console.ReadLine());
-            //int Quotient = Numerator/Denominator;
-            //int Remainder = Numerator%Denominator;
-            //Console.WriteLine("quotient is :" +Quotient);
-            //Console.WriteLine("Remainder is :" +Remainder);
+           // Question no (5)
+            Console.WriteLine("Enter the Numerator:");
+            int Numerator = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter the Denominator:");
+            int Denominator = int.Parse(Console.ReadLine());
+            int Quotient = Numerator/Denominator;
+            int Remainder = Numerator%Denominator;
+            Console.WriteLine("Quotient is :" +Quotient);
+            Console.WriteLine("Remainder is :" +Remainder);
 
             //Question(6)
             //Console.WriteLine("Enter the Number:");
