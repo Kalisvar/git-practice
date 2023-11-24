@@ -175,7 +175,63 @@ namespace ConsoleApplication1
             //double Grosspay = basicpay + (basicpay * DA * 1.0 / 100) + (basicpay * TA * 1.0 / 100) - (basicpay * PF * 1.0 / 100);
             //Console.WriteLine("Grosspay: " + Grosspay);
 
-          
+            //Question(21)
+            //Console.WriteLine("Enter the Principal amount:");
+            //int Principalamount = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter the number of period in years:");
+            //float Numberofperiod = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter the rate of intrest :");
+            //int interest = int.Parse(Console.ReadLine());
+            //double simpleinterest = (Principalamount * Numberofperiod * interest) / 100;
+            //Console.WriteLine("The Simple intrest is:" + simpleinterest);
+
+
+            //Question(22):
+            //Console.WriteLine("Enter the Principal balance:");
+            //int Principalbalance = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter the number of times  interest");
+            //float Numberofintrest = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter the rate of intrest :");
+            //int interest = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter the number of times periods :");
+            //int timeperiods = int.Parse(Console.ReadLine());
+            //double finalvalue =  Math.Pow((1 + (interest / Numberofintrest)), (Numberofintrest * timeperiods));
+            //Console.WriteLine("the compound interest is :" + finalvalue);
+
+
+
+
+            //Question(23)
+            //Console.WriteLine("Enter the height in feet");
+            //int feet = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter the inches");
+            //int inches = int.Parse(Console.ReadLine());
+            //double  answer = (feet * 30.48) + inches * 2.54;
+            //Console.WriteLine("the height in centimeter is :" +answer);
+
+
+            //Question(24)
+            //Console.WriteLine("Enter weight in Kilogram");
+            //float Weight = float.Parse(Console.ReadLine()); 
+            //Console.WriteLine("Enter Height in Centimeter");
+            //float Height = float.Parse(Console.ReadLine());
+            //float answer = (Weight / Height) * Height;
+            //Console.WriteLine("Body mass Index is" + answer);
+
+            //Question(25)
+            //Console.WriteLine("Enter the Roll number:");
+            //long RollNo = long.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter the name:");
+            //string name = Console.ReadLine();
+            //Console.WriteLine("Enter the first subject mark out of 100:");
+            //int Mark1 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter the Second subject mark out of 100:");
+            //int Mark2 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter the Third subject mark out of 100:");
+            //int Mark3 = int.Parse(Console.ReadLine());
+            //int total = Mark1 + Mark2 + Mark3;
+            //int Average = total / 3;
+            //Console.WriteLine("RollNo " + RollNo + "\nName  " + name + "\ntotal of three subject  " + total + "\nAverage of subject  " + Average); 
 
 
 
